@@ -1,0 +1,143 @@
+.desktop2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop2-desktop2 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(75, 84, 106, 1);
+}
+ 
+.desktop2-text1 {
+  top: 28px;
+  left: 650px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text2 {
+  top: 125px;
+  left: 616px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-rectangle2 {
+  top: 252px;
+  left: 90px;
+  width: 396px;
+  height: 412px;
+  position: absolute;
+}
+ 
+.desktop2-rectangle3 {
+  top: 252px;
+  left: 924px;
+  width: 396px;
+  height: 412px;
+  position: absolute;
+}
+ 
+.desktop2-istockphoto484231734612x6121 {
+  top: 252px;
+  left: 90px;
+  width: 396px;
+  height: 412px;
+  position: absolute;
+}
+ 
+.desktop2-text3 {
+  top: 680px;
+  left: 90px;
+  color: rgba(255, 255, 255, 1);
+  width: 630px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Itim;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-text4 {
+  top: 665px;
+  left: 832px;
+  color: rgba(255, 255, 255, 1);
+  width: 589px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Itim;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop2-vector1 {
+  top: 370px;
+  left: 211px;
+  width: 177px;
+  height: 186px;
+  opacity: 0.90;
+  position: absolute;
+}
+ 
+.desktop2-windpowergeneration1 {
+  top: 252px;
+  left: 924px;
+  width: 396px;
+  height: 412px;
+  position: absolute;
+}
+ 
+.desktop2-vector2 {
+  top: 365px;
+  left: 1033px;
+  width: 177px;
+  height: 186px;
+  opacity: 0.90;
+  position: absolute;
+}
+ 
+.desktop2-vector3 {
+  top: 28px;
+  left: 37px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+}

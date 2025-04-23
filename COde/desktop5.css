@@ -1,0 +1,236 @@
+.desktop5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop5-desktop5 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(187, 206, 251, 1);
+}
+ 
+.desktop5-rectangle6 {
+  top: 568px;
+  left: 0px;
+  width: 1440px;
+  height: 456px;
+  position: absolute;
+}
+ 
+.desktop5-vector3 {
+  top: 462px;
+  left: -16px;
+  width: 1456px;
+  height: 220px;
+  position: absolute;
+}
+ 
+.desktop5-screenshot1930 {
+  top: 495px;
+  left: 707px;
+  width: 206px;
+  height: 136px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/external/tq_z1gtr2v0rr-svg-200h.png");
+}
+ 
+.desktop5-vector4 {
+  top: 267px;
+  left: 769px;
+  width: 440px;
+  height: 228px;
+  position: absolute;
+}
+ 
+.desktop5-vector5 {
+  top: 267px;
+  left: 913px;
+  width: 512px;
+  height: 228px;
+  position: absolute;
+}
+ 
+.desktop5-vector6 {
+  top: 572px;
+  left: 197px;
+  width: 531px;
+  height: 248px;
+  position: absolute;
+}
+ 
+.desktop5-vector7 {
+  top: 792px;
+  left: 338px;
+  width: 58px;
+  height: 68px;
+  position: absolute;
+}
+ 
+.desktop5-vector8 {
+  top: 792px;
+  left: 553px;
+  width: 58px;
+  height: 68px;
+  position: absolute;
+}
+ 
+.desktop5-group1 {
+  top: 17px;
+  left: 561px;
+  width: 167px;
+  height: 89.99819946289062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop5-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 90px;
+  position: absolute;
+}
+ 
+.desktop5-group2 {
+  top: 291px;
+  left: 338px;
+  width: 167px;
+  height: 89.99819946289062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop5-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 90px;
+  position: absolute;
+}
+ 
+.desktop5-group3 {
+  top: 222px;
+  left: 746px;
+  width: 167px;
+  height: 89.99819946289062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop5-vector9 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 90px;
+  position: absolute;
+}
+ 
+.desktop5-group5 {
+  top: 101px;
+  left: 244px;
+  width: 165.3126220703125px;
+  height: 165.86947631835938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop5-vector10 {
+  top: 36.8589973449707px;
+  left: 37.574710845947266px;
+  width: 91px;
+  height: 92px;
+  position: absolute;
+}
+ 
+.desktop5-vector11 {
+  top: 47.84328842163086px;
+  left: 51.91279220581055px;
+  width: 20px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.desktop5-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 165px;
+  height: 166px;
+  position: absolute;
+}
+ 
+.desktop5-electrictoweroverheadpowerlineicontemplateblackcol {
+  top: 158px;
+  left: 1186px;
+  width: 236px;
+  height: 356px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("public/external/tq_dqmkp88dld-fslm-300w.png");
+}
+ 
+.desktop5-group4 {
+  top: 17px;
+  left: 977px;
+  width: 167px;
+  height: 89.99819946289062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop5-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 167px;
+  height: 90px;
+  position: absolute;
+}
+ 
+.desktop5-layer1 {
+  top: 34px;
+  left: 47px;
+  width: 249px;
+  height: 538px;
+  position: absolute;
+}
+ 
+.desktop5-vector14 {
+  top: 43px;
+  left: 1327px;
+  width: 50px;
+  height: 42px;
+  position: absolute;
+}
+ 
+.desktop5-vector15 {
+  top: 34px;
+  left: 47px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+}

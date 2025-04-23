@@ -1,0 +1,541 @@
+.desktop7-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop7-desktop7 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(75, 84, 106, 1);
+}
+ 
+.desktop7-rectangle8 {
+  top: 58px;
+  left: 0px;
+  width: 1440px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.desktop7-text10 {
+  top: 143px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-text11 {
+  top: 240px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle9 {
+  top: 66px;
+  left: 807px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text12 {
+  top: 70px;
+  left: 830px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle11 {
+  top: 69px;
+  left: 1191px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text13 {
+  top: 70px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle10 {
+  top: 69px;
+  left: 999px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text14 {
+  top: 71px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle13 {
+  top: 58px;
+  left: 0px;
+  width: 1440px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.desktop7-text15 {
+  top: 143px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-text16 {
+  top: 240px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle14 {
+  top: 66px;
+  left: 807px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text17 {
+  top: 70px;
+  left: 830px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle15 {
+  top: 69px;
+  left: 1191px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text18 {
+  top: 70px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle16 {
+  top: 69px;
+  left: 999px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text19 {
+  top: 71px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle18 {
+  top: 58px;
+  left: 0px;
+  width: 1440px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.desktop7-text20 {
+  top: 143px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-text21 {
+  top: 240px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle19 {
+  top: 66px;
+  left: 807px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text22 {
+  top: 70px;
+  left: 830px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle20 {
+  top: 69px;
+  left: 1191px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text23 {
+  top: 70px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle21 {
+  top: 69px;
+  left: 999px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text24 {
+  top: 71px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle23 {
+  top: 58px;
+  left: 0px;
+  width: 1440px;
+  height: 51px;
+  position: absolute;
+}
+ 
+.desktop7-text25 {
+  top: 143px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-text26 {
+  top: 240px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle24 {
+  top: 66px;
+  left: 807px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text27 {
+  top: 70px;
+  left: 830px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle25 {
+  top: 69px;
+  left: 1191px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text28 {
+  top: 70px;
+  left: 1213px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-rectangle26 {
+  top: 69px;
+  left: 999px;
+  width: 109px;
+  height: 36px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.desktop7-text29 {
+  top: 71px;
+  left: 1011px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-footer {
+  top: 988px;
+  left: 0px;
+  width: 1440px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(51, 51, 51, 1);
+}
+ 
+.desktop7-text30 {
+  top: 10px;
+  left: 553.7999877929688px;
+  color: rgba(255, 255, 255, 1);
+  width: 333px;
+  height: auto;
+  position: absolute;
+  font-size: 13.387499809265137px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-vector {
+  top: 7px;
+  left: 24px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+}
+ 
+.desktop7-text31 {
+  top: 316px;
+  left: 260px;
+  color: rgba(255, 255, 255, 1);
+  width: 1217px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Istok Web;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop7-text32 {
+  text-decoration: NONE;
+}
+ 
+.desktop7-text34 {
+  text-decoration: NONE;
+}
